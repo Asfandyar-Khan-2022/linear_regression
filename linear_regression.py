@@ -27,3 +27,4 @@ class LinearRegression:
         # Approximate the values 
         y_predicted = np.dot(X, self.weights) + self.bias
         return y_predicted
+#test
